@@ -4,4 +4,4 @@ The library this code uses is from Alex with edits to fit the spicific requireme
 More infomation will be uploaded in the future. 
 
 
-I have forked Alex's Library to my page for you convenience. 
+I have forked Alex's Library to my page for you convenience. The one that's compitable with my code is the display_utils.h and display_utils.c over on the forked page. 
